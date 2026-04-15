@@ -2,7 +2,7 @@
 Abu Talha Saleem | ID: F2024376221
 
 ### Contents:
-* **hello_world.cpp**: A basic C++ program for the AI course.
+* **hello_world.cpp**: A basic python project for the AI course.
 * **Assignment 1**: Git & GitHub Workflow practice.
 
 ### Tools Used:
